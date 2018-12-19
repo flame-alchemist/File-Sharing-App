@@ -1,0 +1,18 @@
+
+SETUP GUIDE:
+
+1) Set the IP address in the client.py to that of your server system. (Change port number if needed)
+2) Make changes in the file name of both the server.py and client.py (WHEREVER MENTIONED IN THE CODE) according to your main system and what you desire. 
+
+
+INSTALLATION and EXECUTION GUIDE:
+
+1) Use 3 system in which 2 acts as a client (sender and receiver) and 1 as server.
+2) Execute 'server.py' on the server system. (NOTE: Run on python2. Ex- python2 server.py)
+3) Execute 'client.py' on both the client system. (python2 client.py)
+4) Make one client system as SENDER and another as RECEIVER by selecting the appropriate choice given after execution of code. (NOTE: The first system to be connected to the server must be sender followed by receiver)
+5) Once the sender system is connected, specify the pathname of the file/image that has to be transferred. (NOTE: The code as been harcoded for JPG file only. Changes can be made in the code for transferring different file formats by altering the path names)
+6) Your file would have been transferred to the desired path in the receiver system.
+
+
+TOOLS AND TECHNOLOGY USED: SocketIO, Python2
