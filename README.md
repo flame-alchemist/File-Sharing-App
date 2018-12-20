@@ -19,3 +19,9 @@ Explanation:
 
 IMPORTANT:
 Read setup.txt for setting up the application.
+
+Contributors:
+
+Sharath Menon
+Shailesh Sridhar
+Shailendra Hegde
